@@ -71,7 +71,8 @@ Python application which fowards DNS queries via DNS over TLS.
   ```
 
 ## DEMO
-  [A video clip](https://s3.ap-northeast-2.amazonaws.com/cloudacode/kc_dot_demo.mov) for how to provision and verify the service with Docker.
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/o2pQQil8EME/0.jpg)](https://www.youtube.com/watch?v=o2pQQil8EME)
+ for how to provision and verify the service with Docker.
 
 ## Resource
   Essentials:
