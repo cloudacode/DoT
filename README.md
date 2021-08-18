@@ -49,7 +49,7 @@ Python application which fowards DNS queries via DNS over TLS.
   
   ```
   $ sudo mkdir /app
-  $ sudo git clone https://gitlab.com/stitchlab/kc-dot.git /app
+  $ sudo git clone https://github.com/cloudacode/DoT.git /app
   $ sudo python /app/dns_over_tls.py
   ```
 
